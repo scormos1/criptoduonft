@@ -1,0 +1,28 @@
+{
+
+  "name": "Paul",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+      
+      "uri": "1.png",
+      "type": "image/png"
+      
+      }
+    ],
+    
+    "creators": [
+    
+     {
+      
+       "address": "3XZgixeM2hSThCXwDmuBMso29cCGbpw2MsHQ7EQVwdyi",
+       "share": 100
+     }
+    ]
+  
+  
+  },
+    "collection": {"name": "CryptoDuoNFT", "family": "CryptoDuoNFT"}
+}
